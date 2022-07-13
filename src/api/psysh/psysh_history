@@ -1,0 +1,12 @@
+_HiStOrY_V2_
+App\134Aluno::get()
+DateTime::createFromFormat('Y-m-d',\040'1234')->format('d/m/Y');
+DateTime::createFromFormat('Y-m-d',\040'1234')
+DateTime::createFromFormat('Y-m-d',\040'1987-02-02')
+DateTime::createFromFormat('d/m/Y',\040'02/03/1987')
+DateTime::createFromFormat('d/m/Y',\040'02/03/1987')->format('Y-m-d')
+DateTime::createFromFormat('d/m/Y',\040'')->format('Y-m-d')
+DateTime::createFromFormat('d/m/Y',\040'')
+DateTime::createFromFormat('d/m/Y',\040'1234')
+DateTime::createFromFormat('d/m/Y',\040'anana')
+DateTime::createFromFormat('d/m/Y',\040'1987-01-01')
